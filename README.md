@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dhruv
-- 👀 I’m interested in programming and exploring new things
-- 🌱 I’m currently enrolled in BS-MS programme at IISER Mohali, India
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @dhruvrathore2000@gmail.com
+- 👋 Hi, I’m Dhruv Rathore
+- 👀 I’m interested in programming and learning the field of data science.
+- 🌱 I’m currently enrolled in BS-MS programme(Maths Major) at IISER Mohali, India
+- Email -  @dhruvrathore2000@gmail.com
+- Kaggle - https://www.kaggle.com/dhruvvansrajrathore
 
 <!---
 drmkn/drmkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
