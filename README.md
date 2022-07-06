@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv Rathore
-- 👀 I’m interested in programming and learning the field of data science.
-- 🌱 I’m currently enrolled in BS-MS programme(Maths Major) at IISER Mohali, India
+- 👀 I’m interested in programming and learning the field of mathematical finance and data science.
+- 🌱 I have done BS-MS in Mathematics from IISER Mohali
 - Email -  @dhruvrathore2000@gmail.com
 - Kaggle - https://www.kaggle.com/dhruvvansrajrathore
 
