@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruv Rathore
-- 👀 I’m interested in programming and learning the field of mathematical finance and data science.
+- 👀 I’m interested in the area of Deep Learning, Computer Vision and NLP.
 - 🌱 I have done BS-MS in Mathematics from IISER Mohali. Currently Pursuing M.Tech CS from ISI Kolkata
 - Email -  @dhruvrathore2000@gmail.com
 - Kaggle - https://www.kaggle.com/dhruvvansrajrathore
