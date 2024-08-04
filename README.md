@@ -7,9 +7,11 @@ My name is Dhruv Vansraj Rathore. I am currently pursuing M.Tech CS from **India
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indianstatisticalinstitutelogo.svg/300px-Indianstatisticalinstitutelogo.svg.png" alt="ISI Kolkata" width="100" height="auto" style="background-color: white; padding: 10px; border-radius: 10px;">
 </a>
 
-<a href="https://www.iisermohali.ac.in/">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/IISER-Mohali_Logo.svg/800px-IISER-Mohali_Logo.svg.png" alt="IISER Mohali" width="100" height="auto" style="background-color: white; padding: 10px; border-radius: 10px;">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/IISER-Mohali_Logo.svg/330px-IISER-Mohali_Logo.svg.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/IISER-Mohali_Logo.svg/330px-IISER-Mohali_Logo.svg.png">
+  <img alt="IISER Mohali" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/IISER-Mohali_Logo.svg/330px-IISER-Mohali_Logo.svg.png" width="100" height="auto">
+</picture>
 
 I have a broad interest in deep learning, with current work focused on causality in neural networks and explainable AI. I'm also open to working in NLP and computer vision, and I have a background in mathematical finance, particularly in derivatives.
 
