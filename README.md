@@ -3,8 +3,7 @@
 
 My name is Dhruv Vansraj Rathore. I am currently pursuing M.Tech CS from **Indian Statistical Institute Kolkata**. I have completed BS-MS in Mathematics from **Indian Institute of Science Education and Research Mohali**.
 
-<img src="images/isilogo.png" alt="Logo" width="120" height="auto">
-<img src="images/iisermlogo.jpg" alt="Logo" width="120" height="auto">
+<img src="images/isilogo.png" alt="Logo" width="120" height="auto">    <img src="images/iisermlogo.jpg" alt="Logo" width="120" height="auto">
 
 
 I have a broad interest in deep learning, with current work focused on causality in neural networks and explainable AI. I'm also open to working in NLP and computer vision, and I have a background in mathematical finance, particularly in derivatives.
