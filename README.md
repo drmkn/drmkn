@@ -2,6 +2,7 @@
 # Hi there, welcome to my Github profile 👋
 
 My name is Dhruv Vansraj Rathore. I am currently pursuing M.Tech CS from **Indian Statistical Institute Kolkata**. I have completed BS-MS in Mathematics from **Indian Institute of Science Education and Research Mohali**.
+
 <a href="https://www.iisermohali.ac.in/">
   <img src="https://www.iisermohali.ac.in/images/Logo_HR/iisermlogo.jpg" alt="IISER Mohali" width="150" height="auto">
 </a>
