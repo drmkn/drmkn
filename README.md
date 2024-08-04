@@ -4,7 +4,7 @@
 My name is Dhruv Vansraj Rathore. I am currently pursuing M.Tech CS from **Indian Statistical Institute Kolkata**. I have completed BS-MS in Mathematics from **Indian Institute of Science Education and Research Mohali**.
 
 <a href="https://www.isical.ac.in/">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indianstatisticalinstitutelogo.svg/800px-Indianstatisticalinstitutelogo.svg.png" alt="ISI Kolkata" width="100" height="auto">
+  <img src="https://www.isical.ac.in/sites/all/themes/isk_main/logo.png" alt="ISI Kolkata" width="100" height="auto">
 </a>
 
 <a href="https://www.iisermohali.ac.in/">
